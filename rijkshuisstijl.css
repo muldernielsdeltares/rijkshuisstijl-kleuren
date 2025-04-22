@@ -1,0 +1,135 @@
+:root {
+	--lintblauw-100: #154273;
+	--lintblauw-75: #4f7196;
+	--lintblauw-60: #738eab;
+	--lintblauw-45: #95a9c0;
+	--lintblauw-30: #b8c6d5;
+	--lintblauw-15: #dce3ea;
+
+	--paars-100: #42145F;
+	--paars-75: #714F87;
+	--paars-60: #8D729F;
+	--paars-45: #A995B7;
+	--paars-30: #C6B8CE;
+	--paars-15: #E3DCE7;
+
+	--violet-100: #a90061;
+	--violet-75: #BE4088;
+	--violet-60: #CB66A0;
+	--violet-45: #D88CB7;
+	--violet-30: #E5B2CF;
+	--violet-15: #F2D9E7;
+
+	--robijnrood-100: #CA005D;
+	--robijnrood-75: #D74085;
+	--robijnrood-60: #DF669D;
+	--robijnrood-45: #E78CB6;
+	--robijnrood-30: #EFB2CE;
+	--robijnrood-15: #F7D9E7;
+
+	--roze-100: #F092CD;
+	--roze-75: #F4ADD9;
+	--roze-60: #F6BDE1;
+	--roze-45: #F8CEE8;
+	--roze-30: #FBDEF0;
+	--roze-15: #FDEFF8;
+
+	--rood-100: #D52B1E;
+	--rood-75: #DF6056;
+	--rood-60: #E67F78;
+	--rood-45: #EC9F99;
+	--rood-30: #F2BFBB;
+	--rood-15: #F9DFDD;
+
+	--oranje-100: #E17000;
+	--oranje-75: #E89440;
+	--oranje-60: #EDA966;
+	--oranje-45: #F1BE8C;
+	--oranje-30: #F6D4B2;
+	--oranje-15: #FBEAD9;
+
+	--donkergeel-100: #FFB612;
+	--donkergeel-75: #FDC84D;
+	--donkergeel-60: #FDD370;
+	--donkergeel-45: #FDDE94;
+	--donkergeel-30: #FEE9B7;
+	--donkergeel-15: #FEF4DB;
+
+	--geel-100: #F9E11E;
+	--geel-75: #FAE856;
+	--geel-60: #FBED78;
+	--geel-45: #FCF199;
+	--geel-30: #FDF6BB;
+	--geel-15: #FEFBDD;
+
+	--donkerbruin-100: #673327;
+	--donkerbruin-75: #8D665D;
+	--donkerbruin-60: #A3847D;
+	--donkerbruin-45: #BAA39D;
+	--donkerbruin-30: #D1C1BD;
+	--donkerbruin-15: #E8E0DF;
+
+	--bruin-100: #94710A;
+	--bruin-75: #AF9447;
+	--bruin-60: #BFA96C;
+	--bruin-45: #CFBF90;
+	--bruin-30: #DFD4B5;
+	--bruin-15: #EFEADA;
+
+	--donkergroen-100: #275937;
+	--donkergroen-75: #5D8269;
+	--donkergroen-60: #7D9B87;
+	--donkergroen-45: #9DB4A4;
+	--donkergroen-30: #BDCDC2;
+	--donkergroen-15: #DEE6E1;
+
+	--groen-100: #39870C;
+	--groen-75: #6AA549;
+	--groen-60: #88B76D;
+	--groen-45: #A5C991;
+	--groen-30: #C3DBB5;
+	--groen-15: #E1EDDA;
+
+	--mosgroen-100: #777B00;
+	--mosgroen-75: #999C40;
+	--mosgroen-60: #ADAF66;
+	--mosgroen-45: #C1C38C;
+	--mosgroen-30: #D6D7B2;
+	--mosgroen-15: #EBEBD9;
+
+	--mintgroen-100: #76D2B6;
+	--mintgroen-75: #98DDC8;
+	--mintgroen-60: #ACE4D3;
+	--mintgroen-45: #C1EBDE;
+	--mintgroen-30: #D5F1E9;
+	--mintgroen-15: #EAF8F4;
+
+	--donkerblauw-100: #01689B;
+	--donkerblauw-75: #408EB4;
+	--donkerblauw-60: #66A4C3;
+	--donkerblauw-45: #8CBBD2;
+	--donkerblauw-30: #B2D1E1;
+	--donkerblauw-15: #D9E8F0;
+
+	--hemelblauw-100: #007BC7;
+	--hemelblauw-75: #409CD5;
+	--hemelblauw-60: #66AFDD;
+	--hemelblauw-45: #8CC3E6;
+	--hemelblauw-30: #B2D7EE;
+	--hemelblauw-15: #D9EBF7;
+
+	--lichtblauw-100: #8FCAE7;
+	--lichtblauw-75: #ABD7ED;
+	--lichtblauw-60: #BCDFF0;
+	--lichtblauw-45: #CCE7F4;
+	--lichtblauw-30: #DDEFF8;
+	--lichtblauw-15: #EEF7FC;
+
+	--grijs-1: #f3f3f3;
+	--grijs-2: #e6e6e6;
+	--grijs-3: #cccccc;
+	--grijs-4: #b4b4b4;
+	--grijs-5: #999999;
+	--grijs-6: #696969;
+	--grijs-7: #535353;
+}
